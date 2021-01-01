@@ -697,22 +697,22 @@ int main()
       //m3.resize(10,3);
       m3.print();*/
 
-     Matrix<double> a(2,3,1);
-      a.print();
+     //Matrix<double> a(2,3,1);
+     // a.print();
       /*
       Matrix<double> b(2,3,9);
       b.print();
       a = b + a*1;
       a.print("file.txt");*/
 
-      /*Matrix<int> m3(5,4,1);
+      Matrix<int> m3(5,4,1);
       m3.print();
       // aşağıdaki durumları ayrı ayrı dene
       //m3.resize(2,6);
-      m3.resize(10,6);
+     // m3.resize(10,6);
      // m3.resize(10,3);
 
-      m3.print();*/
+     // m3.print();*/
 
      // Matrix<float> m6(3,3,'e');
      // cout<<m6.det(); // sonuç 0 olmalı
